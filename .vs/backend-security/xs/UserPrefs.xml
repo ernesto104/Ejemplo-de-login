@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D3C9A4AC-51BE-4763-AD24-C707304E8414}|Default">
+  <MonoDevelop.Ide.ItemProperties.Authentication.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Authentication.API/appsettings.json">
+    <Files>
+      <File FileName="Authentication.API/Controllers/UsersController.cs" Line="28" Column="25" />
+      <File FileName="Authentication.API/Settings/AppSettings.cs" />
+      <File FileName="Authentication.API/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="backend-security" expanded="True" selected="True">
+            <Node name="Authentication.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Domain" expanded="True">
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Settings" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
